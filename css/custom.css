@@ -1,0 +1,74 @@
+#body .jumbotron{
+	margin-bottom: 0px;
+	color:white;
+	background-color: black;
+	opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+#body .navbar{
+	opacity: 0.7;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+
+}
+
+#body .jumbotron .container h1{
+	text-align: center;
+}
+
+#body .jumbotron .container h1{
+	text-align: center;
+}
+
+#body .navbar ul li a,button{
+	color: black;
+}
+
+
+#body .jumbotron p{
+	text-align: justify;
+}
+#body .navbar ul li:hover{
+	opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+    color: white;
+
+}
+
+#contact{
+	opacity: 0.7;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+    color:black;
+}
+
+#body .navbar-collapse{
+	color:white;
+}
+
+#body .carousel-inner {
+	max-height: 680px;
+}
+
+#body{
+	background-image: url("../resource/concert-3.jpg");
+}
+
+#formId{
+	position: relative;
+	top: 4em;
+	opacity: 0.7;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+}
+
+#contact{
+	position: relative;
+	top: 10em;
+}
+
+#myCV{
+	position: relative;
+	top: 3em;
+	background-color: white;
+	opacity: 0.7;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+}
