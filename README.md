@@ -11,3 +11,5 @@ a sample web page using angularjs
 This project is implemented using
 
 Boostrap Boostrap Material Design, AngularJs
+
+Note *** : Please view the project in mozila browser, since chrome has some issue with routing.
